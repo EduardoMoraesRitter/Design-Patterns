@@ -39,7 +39,7 @@ Exemplo:
 var
 /*
 	Module Pattern, fazer pequenos modulos, e oferecendo APIs via Facade Pattern.
-funcoes anonimas
+funcoes anonimas, e com privacidade
 Exemplo:	
 */
 var MyModule = (function () {
@@ -63,8 +63,19 @@ var MyModule = (function () {
 	define{
 		module_id //opcional
 		[dependencias] //opcional
-		definition function // function for instantiating the module or ob
+		definition function//function for instantiating the module or ob
 	};
+
+/*
+	facade pattern, core libs(sao feitas para faciliar o trabalho, 
+	quardando trechos complexos de codigo em funcoes simples, 
+	que podem ser ultilizadas, aproveitando do recurso de xaine caiamento 
+	de funcoes, retornado o proprio objeto, q esta sendo ultilizado, 
+	um metodo encadiado no outro, auto nivel de abstração)
+*/
+	
+
+
 
 
 

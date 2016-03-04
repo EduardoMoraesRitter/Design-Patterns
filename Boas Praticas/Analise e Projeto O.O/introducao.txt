@@ -1,0 +1,37 @@
+/*
+Análise e Projeto O.O.
+
+analise é diferente de projeto
+
+antes o documento de requisitos, nao teve conter detalhe tecnico, documento voltado a cliente e funcionario;
+
+Analise(usuario) - gerar modelo tecnico apartir dos casos de uso, esse modeleo é chamado de modelo de analisses ou modelo de dominio.
+entender o proble, abstraçoes, que entidades vc deve mapear, como se relacionan.
+modelo abstrato de alto nivel, voltado a area de negocio, proximo ao mundo real.
+segundo o RUP isso é opcional.
+Vantagem é representa seu negicio seu dominio, endependete da tecnologia ele nao precisa mudar.
+
+Projeto(codigo) - ja é o oposto, sao necessidades tecnicas, esta mais proximo do mundo do codigo.
+Camadas tecnologia linguagem, padrao de projeto(design pattern). enternder a soluçao computacional da analise.
+
+os mesmo diagrams podem se geradas em anbas das partes. cada um focado pra seu lado, diferente basica é o detalhamento de cada um deles.
+
+Caso de Uso VS Analises OO
+sao descrito na lingualem deo cliente X liguem mais tecnicas;
+
+visao externa do sistema X visao interna;
+
+captura s funcionalidade X como podem se realizadas;
+
+OBJETOS = 
+CLASSES = 
+COMPORTAMENTO = 
+ATRIBUTOS = 
+COMPORTAMENTO = 
+
+
+
+
+
+
+*/

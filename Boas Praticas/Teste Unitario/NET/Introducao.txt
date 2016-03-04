@@ -1,0 +1,7 @@
+/* teste uniteario
+- desenvolvedores para garantir os metodos, o VS, o Node, o metodos em si.
+- quando quiser ter uma sistema desaclopado e garantis seu funcionamento.
+- dentro do proje criace um porjeto de teste aparte.
+- UnitTesting, criando uma projeto e referenciando o o projeto depois a classe que sera testada passando os paramentos e configurando o retorno esperado, fazendo com q o VS execute o teste.
+- Otimo para garantir o desaclopamento do sistema e o funcionamento de tudo.
+*/

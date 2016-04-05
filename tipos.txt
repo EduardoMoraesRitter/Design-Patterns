@@ -1,0 +1,63 @@
+Padrao de escrita de codigo, são complemento para resolução de problemas
+Criado pelo grupo Gang of Four(grupo de 4 pessoas), Erich Gamma, Richard Helm, Ralph Johnson, John Vissides
+O conceito iniciado em 1994
+onde usar? independente da linguagem
+Anda junto com orientação a objeto
+
+Como:
+Pode misturar , oq resolve meu problema
+Arquitetura DDD, sao principios, como vc vai tratar seu core
+ x - usar juntos
+Desiner Patterns - usar um padrao para um problema especifico
+
+SOLID é um conseito para boas praticas e escrita de codigo, aplicando dentro do Designer Patter;
+
+Introdução
+    Sobre o uso de design patterns
+    Patterns Criacionais
+    Patterns Estruturais
+    Patterns Comportamentais
+Creational Design Patterns: - criar melhores objetos baseado em abstração e flexibilidade.
+    Factory Method - entity framework, interface, mock
+    Abstract Factory - super, pode ter fabrica da fabrica, contrato(interface)
+    Singleton - criar um classe e dizer que ela é unica, delay com a abertura com conexao e fecha, estacia esse classes uma unica vez, assim economiza espaço de abrir e fechar.
+    Object Pool
+    Builder
+    Prototype
+Structural Design Patterns: - composição de objetos, intefaces
+    Adapter - um ponte entre duas interface. cada um falando de um geito, por exemplo um cara q convert para sql serve e oracle
+    Facade - esconde a complexidade do sistema(fachada), como um acamada de chamada do metodos. 
+    Bridge
+    Composite
+    Decorator
+    Flyweight
+    Private Class Data
+    Proxy
+Behavioral Design Patterns: - comportamental, comunicação do objeto
+    MVC
+    Chain of responsibility
+    Command
+    Interpreter
+    Iterator
+    Mediator
+    Memento
+    Null Object
+    Observer
+    State
+    Strategy
+    Template method
+    Visitor
+    
+Comclusao:
+    
+    Codigo limpo
+    um codigo bem escrito ja esta bem comentado
+    identação, nomeação de variavel, liguagem ubiqua(linguegem do usuario), complexidade, divisao de responsabilidade
+    
+    nao ultilize oq vc nao sabe, 
+    nao é q vc sabe que tem que usar, 
+    nao é competição
+
+
+
+
